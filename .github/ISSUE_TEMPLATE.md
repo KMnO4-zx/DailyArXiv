@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 19, 2025
+title: Latest 15 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/KMnO4-zx/DailyArXiv) page for a better reading experience and more papers.**
@@ -36,11 +36,11 @@ labels: documentation
 | **[Listen to Your Map: An Online Representation for Spatial Sonification](http://arxiv.org/abs/2412.05486v2)** | 2025-04-17 | [papers-cool](https://papers.cool/arxiv/2412.05486v2) |  |
 | **[SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding](http://arxiv.org/abs/2504.12704v1)** | 2025-04-17 | [papers-cool](https://papers.cool/arxiv/2504.12704v1) |  |
 | **[Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](http://arxiv.org/abs/2504.12680v1)** | 2025-04-17 | [papers-cool](https://papers.cool/arxiv/2504.12680v1) | 12 pages, 5 figures |
+| **[Learning spatial hearing via innate mechanisms](http://arxiv.org/abs/2001.10605v2)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2001.10605v2) |  |
 | **[Can Moran Eigenvectors Improve Machine Learning of Spatial Data? Insights from Synthetic Data Validation](http://arxiv.org/abs/2504.12450v1)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.12450v1) |  |
 | **[Geographical Context Matters: Bridging Fine and Coarse Spatial Information to Enhance Continental Land Cover Mapping](http://arxiv.org/abs/2504.12368v1)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.12368v1) |  |
 | **[GripMap: An Efficient, Spatially Resolved Constraint Framework for Offline and Online Trajectory Planning in Autonomous Racing](http://arxiv.org/abs/2504.12115v1)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.12115v1) |  |
 | **[Single-shot Star-convex Polygon-based Instance Segmentation for Spatially-correlated Biomedical Objects](http://arxiv.org/abs/2504.12078v1)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2504.12078v1) | 12 pages, 8 figures |
-| **[Local Clustering and Global Spreading of Receptors for Optimal Spatial Gradient Sensing](http://arxiv.org/abs/2410.03395v2)** | 2025-04-16 | [papers-cool](https://papers.cool/arxiv/2410.03395v2) | <details><summary>This ...</summary><p>This version has been accepted for publication in Physical Review Letters. The final version is available at https://doi.org/10.1103/PhysRevLett.134.158401. Title has changed</p></details> |
 
 ## Time
 | **Title** | **Date** | **KiMi** | **Comment** |
