@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2025
+title: Latest 15 Papers - April 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/KMnO4-zx/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,10 +26,14 @@ labels: documentation
 ## Spatial
 | **Title** | **Date** | **KiMi** | **Comment** |
 | --- | --- | --- | --- |
+| **[Spatial Audio Processing with Large Language Model on Wearable Devices](http://arxiv.org/abs/2504.08907v2)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.08907v2) |  |
+| **[Spatial Reasoner: A 3D Inference Pipeline for XR Applications](http://arxiv.org/abs/2504.18380v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18380v1) | <details><summary>11 pa...</summary><p>11 pages, preprint of ICVARS 2025 paper</p></details> |
+| **[Generating ensembles of spatially-coherent in-situ forecasts using flow matching](http://arxiv.org/abs/2504.03463v2)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.03463v2) | 26 pages, 7 figures |
+| **[A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology](http://arxiv.org/abs/2504.17379v2)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.17379v2) |  |
+| **[RSRNav: Reasoning Spatial Relationship for Image-Goal Navigation](http://arxiv.org/abs/2504.17991v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.17991v1) |  |
 | **[MSGCN: Multiplex Spatial Graph Convolution Network for Interlayer Link Weight Prediction](http://arxiv.org/abs/2504.17749v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17749v1) |  |
 | **[Towards Spatially-Lucid AI Classification in Non-Euclidean Space: An Application for MxIF Oncology Data](http://arxiv.org/abs/2402.14974v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2402.14974v2) | <details><summary>SIAM ...</summary><p>SIAM International Conference on Data Mining (SDM24)</p></details> |
 | **[StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies](http://arxiv.org/abs/2504.17401v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17401v1) |  |
-| **[A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology](http://arxiv.org/abs/2504.17379v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17379v1) |  |
 | **[SPAARC: Spatial Proximity and Association based prefetching for Augmented Reality in edge Cache](http://arxiv.org/abs/2502.15192v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2502.15192v2) |  |
 | **[Towards Generalizable Deepfake Detection with Spatial-Frequency Collaborative Learning and Hierarchical Cross-Modal Fusion](http://arxiv.org/abs/2504.17223v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17223v1) |  |
 | **[Spatially-Delineated Domain-Adapted AI Classification: An Application for Oncology Data](http://arxiv.org/abs/2501.11695v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2501.11695v2) |  |
@@ -37,33 +41,35 @@ labels: documentation
 | **[A Delayed Acceptance Auxiliary Variable MCMC for Spatial Models with Intractable Likelihood Function](http://arxiv.org/abs/2504.17147v1)** | 2025-04-23 | [papers-cool](https://papers.cool/arxiv/2504.17147v1) |  |
 | **[Transferring Spatial Filters via Tangent Space Alignment in Motor Imagery BCIs](http://arxiv.org/abs/2504.17111v1)** | 2025-04-23 | [papers-cool](https://papers.cool/arxiv/2504.17111v1) |  |
 | **[Spatial Distribution-Shift Aware Knowledge-Guided Machine Learning](http://arxiv.org/abs/2502.14840v2)** | 2025-04-23 | [papers-cool](https://papers.cool/arxiv/2502.14840v2) |  |
-| **[Fast Adversarial Training with Weak-to-Strong Spatial-Temporal Consistency in the Frequency Domain on Videos](http://arxiv.org/abs/2504.14921v2)** | 2025-04-23 | [papers-cool](https://papers.cool/arxiv/2504.14921v2) | <details><summary>After...</summary><p>After the submission of the paper, we realized that the study still has room for expansion. In order to make the research findings more profound and comprehensive, we have decided to withdraw the paper so that we can conduct further research and expansion</p></details> |
-| **[Vulnerable Connectivity Caused by Local Communities in Spatial Networks](http://arxiv.org/abs/2412.14513v4)** | 2025-04-23 | [papers-cool](https://papers.cool/arxiv/2412.14513v4) | <details><summary>Modif...</summary><p>Modified from the first version</p></details> |
-| **[Vision language models are unreliable at trivial spatial cognition](http://arxiv.org/abs/2504.16061v1)** | 2025-04-22 | [papers-cool](https://papers.cool/arxiv/2504.16061v1) |  |
-| **[Recent Advances and Future Directions in Extended Reality (XR): Exploring AI-Powered Spatial Intelligence](http://arxiv.org/abs/2504.15970v1)** | 2025-04-22 | [papers-cool](https://papers.cool/arxiv/2504.15970v1) | 7 pages,4 figures |
 
 ## Time
 | **Title** | **Date** | **KiMi** | **Comment** |
 | --- | --- | --- | --- |
-| **[Towards Scalable Multi-Chip Wireless Networks with Near-Field Time Reversal](http://arxiv.org/abs/2404.17325v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2404.17325v2) |  |
-| **[THEMIS: Time, Heterogeneity, and Energy Minded Scheduling for Fair Multi-Tenant Use in FPGAs](http://arxiv.org/abs/2404.00507v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2404.00507v2) | <details><summary>12 Pa...</summary><p>12 Pages, 8 Figures, 3 Tables</p></details> |
-| **[State Feedback System Level Synthesis in Continuous Time](http://arxiv.org/abs/2410.08135v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2410.08135v2) | <details><summary>8 pag...</summary><p>8 pages, 6 figures, conference</p></details> |
-| **[Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations](http://arxiv.org/abs/2504.17717v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17717v1) |  |
-| **[Pushing the frontiers of subexponential FPT time for Feedback Vertex Set](http://arxiv.org/abs/2504.17708v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17708v1) | <details><summary>To ap...</summary><p>To appear in the proceedings of ICALP 2025</p></details> |
-| **[On Multivariate Financial Time Series Classification](http://arxiv.org/abs/2504.17664v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17664v1) |  |
-| **[On the Benefits of Memory for Modeling Time-Dependent PDEs](http://arxiv.org/abs/2409.02313v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2409.02313v2) |  |
-| **[Decentralized Time Series Classification with ROCKET Features](http://arxiv.org/abs/2504.17617v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17617v1) | <details><summary>Submi...</summary><p>Submitted to Workshop on Federated Learning Advancements 2025, in conjunction with ECML-PKDD, WAFL25</p></details> |
-| **[Linear-Time Multilevel Graph Partitioning via Edge Sparsification](http://arxiv.org/abs/2504.17615v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17615v1) |  |
-| **[TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation](http://arxiv.org/abs/2504.17613v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17613v1) |  |
-| **[Quantum Autoencoder for Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2504.17548v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17548v1) | <details><summary>Submi...</summary><p>Submitted to IEEE International Conference on Quantum Computing and Engineering (QCE) 2025</p></details> |
-| **[One-Point Sampling for Distributed Bandit Convex Optimization with Time-Varying Constraints](http://arxiv.org/abs/2504.16211v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.16211v2) | 15 pages, 3 figures |
-| **[Admittance Identification of Grid-Forming Inverters Using Time and Frequency-Domain Techniques](http://arxiv.org/abs/2504.17512v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17512v1) | <details><summary>2025 ...</summary><p>2025 IEEE Kiel PowerTech</p></details> |
-| **[Goal-Oriented Time-Series Forecasting: Foundation Framework Design](http://arxiv.org/abs/2504.17493v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17493v1) |  |
-| **[Evaluating Time Series Models for Urban Wastewater Management: Predictive Performance, Model Complexity and Resilience](http://arxiv.org/abs/2504.17461v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17461v1) | <details><summary>6 pag...</summary><p>6 pages, 6 figures, accepted at 10th International Conference on Smart and Sustainable Technologies (SpliTech) 2025, GitHub: https://github.com/calgo-lab/resilient-timeseries-evaluation</p></details> |
+| **[Bidirectional Decoding: Improving Action Chunking via Guided Test-Time Sampling](http://arxiv.org/abs/2408.17355v4)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2408.17355v4) | <details><summary>Proje...</summary><p>Project website: https://bid-robot.github.io/</p></details> |
+| **[A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization](http://arxiv.org/abs/2411.06018v2)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2411.06018v2) |  |
+| **[Improved Dwell-times for Switched Nonlinear Systems using Memory Regression Extension](http://arxiv.org/abs/2504.18457v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18457v1) |  |
+| **[Subexponential and Parameterized Mixing Times of Glauber Dynamics on Independent Sets](http://arxiv.org/abs/2504.18427v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18427v1) |  |
+| **[AMAD: AutoMasked Attention for Unsupervised Multivariate Time Series Anomaly Detection](http://arxiv.org/abs/2504.06643v3)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.06643v3) | <details><summary>fix s...</summary><p>fix some grammar issues</p></details> |
+| **[Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning](http://arxiv.org/abs/2504.16172v2)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.16172v2) |  |
+| **[A Linear Time Algorithm for the Maximum Overlap of Two Convex Polygons Under Translation](http://arxiv.org/abs/2504.18352v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18352v1) | <details><summary>To ap...</summary><p>To appear in SoCG 2025</p></details> |
+| **[Neural Incremental Input-to-State Stable Control Lyapunov Functions for Unknown Continuous-time Systems](http://arxiv.org/abs/2504.18330v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18330v1) | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2503.04129</p></details> |
+| **[PHEATPRUNER: Interpretable Data-centric Feature Selection for Multivariate Time Series Classification through Persistent Homology](http://arxiv.org/abs/2504.18329v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18329v1) | Preprint |
+| **[Bridging the Gap: Introducing Joint Models for Longitudinal and Time-to-event Data in the Social Sciences](http://arxiv.org/abs/2504.18288v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18288v1) |  |
+| **[Time and Frequency Domain-based Anomaly Detection in Smart Meter Data for Distribution Network Studies](http://arxiv.org/abs/2504.18231v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18231v1) |  |
+| **[A hybridizable discontinuous Galerkin method with transmission variables for time-harmonic acoustic problems in heterogeneous media](http://arxiv.org/abs/2504.18209v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18209v1) |  |
+| **[Bitcoin: A Non-Continuous Time System](http://arxiv.org/abs/2501.11091v4)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2501.11091v4) |  |
+| **[An Open-Source and Reproducible Implementation of LSTM and GRU Networks for Time Series Forecasting](http://arxiv.org/abs/2504.18185v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18185v1) | 12 pages |
+| **[Tree Boosting Methods for Balanced andImbalanced Classification and their Robustness Over Time in Risk Assessment](http://arxiv.org/abs/2504.18133v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18133v1) | <details><summary>14 pa...</summary><p>14 pages. arXiv admin note: text overlap with arXiv:2303.15218</p></details> |
 
 ## Trajectory
 | **Title** | **Date** | **KiMi** | **Comment** |
 | --- | --- | --- | --- |
+| **[Enhancing System Self-Awareness and Trust of AI: A Case Study in Trajectory Prediction and Planning](http://arxiv.org/abs/2504.18421v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18421v1) | <details><summary>Accep...</summary><p>Accepted to be published as part of the 2025 IEEE Intelligent Vehicles Symposium (IV), JCluj-Napoca, Romania, June 22-25, 2025</p></details> |
+| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v3)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.13768v3) | <details><summary>Reupl...</summary><p>Reuploaded with new version-- equation 16 was incorrect</p></details> |
+| **[PRIMER: Perception-Aware Robust Learning-based Multiagent Trajectory Planner](http://arxiv.org/abs/2406.10060v3)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2406.10060v3) | 7 pages, 3 figures |
+| **[Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat](http://arxiv.org/abs/2409.16915v2)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2409.16915v2) | <details><summary>First...</summary><p>First two authors contributed equally. Project Page: https://roahmlab.github.io/splanning</p></details> |
+| **[Joint Resource Estimation and Trajectory Optimization for eVTOL-involved CR network: A Monte Carlo Tree Search-based Approach](http://arxiv.org/abs/2504.18031v1)** | 2025-04-25 | [papers-cool](https://papers.cool/arxiv/2504.18031v1) |  |
+| **[Mixed Bernstein-Fourier Approximants for Optimal Trajectory Generation with Periodic Behavior](http://arxiv.org/abs/2504.17969v1)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.17969v1) | 49 pages, 9 figures |
 | **[ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images](http://arxiv.org/abs/2406.14794v6)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2406.14794v6) | <details><summary>ICASS...</summary><p>ICASSP 2025, Oral Presentation</p></details> |
 | **[DYNUS: Uncertainty-aware Trajectory Planner in Dynamic Unknown Environments](http://arxiv.org/abs/2504.16734v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.16734v2) | <details><summary>20 pa...</summary><p>20 pages, 30 figures, Under review at IEEE Transactions on Robotics</p></details> |
 | **[Transferable text data distillation by trajectory matching](http://arxiv.org/abs/2504.09818v2)** | 2025-04-24 | [papers-cool](https://papers.cool/arxiv/2504.09818v2) |  |
@@ -73,10 +79,4 @@ labels: documentation
 | **[SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction](http://arxiv.org/abs/2504.16377v1)** | 2025-04-23 | [papers-cool](https://papers.cool/arxiv/2504.16377v1) |  |
 | **[Text-to-TrajVis: Enabling Trajectory Data Visualizations from Natural Language Questions](http://arxiv.org/abs/2504.16358v1)** | 2025-04-23 | [papers-cool](https://papers.cool/arxiv/2504.16358v1) |  |
 | **[Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction](http://arxiv.org/abs/2504.15766v1)** | 2025-04-22 | [papers-cool](https://papers.cool/arxiv/2504.15766v1) |  |
-| **[Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems](http://arxiv.org/abs/2504.13768v2)** | 2025-04-22 | [papers-cool](https://papers.cool/arxiv/2504.13768v2) | <details><summary>permi...</summary><p>permission not yet received for arXiv</p></details> |
-| **[SocialMOIF: Multi-Order Intention Fusion for Pedestrian Trajectory Prediction](http://arxiv.org/abs/2504.15616v1)** | 2025-04-22 | [papers-cool](https://papers.cool/arxiv/2504.15616v1) | 11 pages,6 figures |
-| **[Offline Safe Reinforcement Learning Using Trajectory Classification](http://arxiv.org/abs/2412.15429v5)** | 2025-04-19 | [papers-cool](https://papers.cool/arxiv/2412.15429v5) | <details><summary>AAAI ...</summary><p>AAAI 2025. Updated results</p></details> |
-| **[DiffOG: Differentiable Policy Trajectory Optimization with Generalizability](http://arxiv.org/abs/2504.13807v1)** | 2025-04-18 | [papers-cool](https://papers.cool/arxiv/2504.13807v1) |  |
-| **[Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback](http://arxiv.org/abs/2504.13785v1)** | 2025-04-18 | [papers-cool](https://papers.cool/arxiv/2504.13785v1) |  |
-| **[Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction](http://arxiv.org/abs/2504.13647v1)** | 2025-04-18 | [papers-cool](https://papers.cool/arxiv/2504.13647v1) |  |
 
