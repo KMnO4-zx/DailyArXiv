@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 04, 2025
+title: Latest 15 Papers - May 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/KMnO4-zx/DailyArXiv) page for a better reading experience and more papers.**
@@ -49,6 +49,7 @@ labels: documentation
 | **[Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI](http://arxiv.org/abs/2505.00643v1)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2505.00643v1) |  |
 | **[Unlocking the Potential of Linear Networks for Irregular Multivariate Time Series Forecasting](http://arxiv.org/abs/2505.00590v1)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2505.00590v1) |  |
 | **[Model order reduction of hemodynamics by space-time reduced basis and reduced fluid-structure interaction](http://arxiv.org/abs/2505.00548v1)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2505.00548v1) | <details><summary>28 pa...</summary><p>28 pages, 8 figures. Submitted to Computer Methods in Applied Mechanics and Engineering</p></details> |
+| **[Minimizing $\ell_2$ Norm of Flow Time by Starvation Mitigation](http://arxiv.org/abs/2112.14403v4)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2112.14403v4) | IWOCA 2025 |
 | **[Test-time Correlation Alignment](http://arxiv.org/abs/2505.00533v1)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2505.00533v1) | Accepted by ICML2025 |
 | **[Interpretable Spatial-Temporal Fusion Transformers: Multi-Output Prediction for Parametric Dynamical Systems with Time-Varying Inputs](http://arxiv.org/abs/2505.00473v1)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2505.00473v1) |  |
 | **[Deterministic Scheduling over Wi-Fi 6 using Target Wake Time: An Experimental Approach](http://arxiv.org/abs/2505.00447v1)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2505.00447v1) | <details><summary>16 pa...</summary><p>16 pages, 13 figures, and 7 tables</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Learning to Estimate Package Delivery Time in Mixed Imbalanced Delivery and Pickup Logistics Services](http://arxiv.org/abs/2505.00375v1)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2505.00375v1) | <details><summary>Accep...</summary><p>Accepted by ACM SIGSPATIAL 2024</p></details> |
 | **[A Comprehensive Survey of Deep Learning for Time Series Forecasting: Architectural Diversity and Open Challenges](http://arxiv.org/abs/2411.05793v3)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2411.05793v3) | <details><summary>This ...</summary><p>This is the accepted manuscript of the article published in Artificial Intelligence Review. The final authenticated version is available at: https://doi.org/10.1007/s10462-025-11223-9</p></details> |
 | **[Gateformer: Advancing Multivariate Time Series Forecasting through Temporal and Variate-Wise Attention with Gated Representations](http://arxiv.org/abs/2505.00307v1)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2505.00307v1) |  |
-| **[Temporal Attention Evolutional Graph Convolutional Network for Multivariate Time Series Forecasting](http://arxiv.org/abs/2505.00302v1)** | 2025-05-01 | [papers-cool](https://papers.cool/arxiv/2505.00302v1) | 13 pages, 7 figures |
 
 ## Trajectory
 | **Title** | **Date** | **KiMi** | **Comment** |
