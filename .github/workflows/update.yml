@@ -5,7 +5,7 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '30 16 * * *' # 00:30 Beijing time every day
+      - cron: '30 16 * * 0,4' # 每周一和周五 16:30 UTC（对应北京时间 00:30）
 
 permissions:
   contents: write
