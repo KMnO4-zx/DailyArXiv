@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 13, 2025
+title: Latest 15 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/KMnO4-zx/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,51 +26,52 @@ labels: documentation
 ## Spatial
 | **Title** | **Date** | **KiMi** | **Comment** |
 | --- | --- | --- | --- |
+| **[STOAT: Spatial-Temporal Probabilistic Causal Inference Network](http://arxiv.org/abs/2506.09544v2)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.09544v2) |  |
+| **[An $O(n$)-Algorithm for the Higher-Order Kinematics and Inverse Dynamics of Serial Manipulators using Spatial Representation of Twists](http://arxiv.org/abs/2506.10686v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10686v1) |  |
+| **[Description and Discussion on DCASE 2025 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes](http://arxiv.org/abs/2506.10676v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10676v1) |  |
+| **[Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection](http://arxiv.org/abs/2506.10601v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10601v1) |  |
+| **[FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion](http://arxiv.org/abs/2506.10366v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10366v1) |  |
 | **[Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing](http://arxiv.org/abs/2506.09965v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09965v1) |  |
 | **[Traveling Waves Integrate Spatial Information Through Time](http://arxiv.org/abs/2502.06034v4)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2502.06034v4) |  |
 | **[Nonstationary Spatial Process Models with Spatially Varying Covariance Kernels](http://arxiv.org/abs/2203.11873v3)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2203.11873v3) |  |
 | **[HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding](http://arxiv.org/abs/2506.09634v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09634v1) | <details><summary>27 pa...</summary><p>27 pages, 9 figures. arXiv admin note: text overlap with arXiv:2410.14200 by other authors</p></details> |
 | **[V2I-Calib++: A Multi-terminal Spatial Calibration Approach in Urban Intersections for Collaborative Perception](http://arxiv.org/abs/2410.11008v3)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2410.11008v3) |  |
 | **[Extensive Database of Spatial Ballistic Captures with Application to Lunar Trailblazer](http://arxiv.org/abs/2506.09584v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09584v1) |  |
-| **[STOAT: Spatial-Temporal Probabilistic Causal Inference Network](http://arxiv.org/abs/2506.09544v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09544v1) |  |
 | **[BiCo-Fusion: Bidirectional Complementary LiDAR-Camera Fusion for Semantic- and Spatial-Aware 3D Object Detection](http://arxiv.org/abs/2406.19048v3)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2406.19048v3) | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Disentangling Spatial and Structural Drivers of Housing Prices through Bayesian Networks: A Case Study of Madrid, Barcelona, and Valencia](http://arxiv.org/abs/2506.09539v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09539v1) |  |
 | **[MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling](http://arxiv.org/abs/2409.16160v2)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2409.16160v2) | <details><summary>Proje...</summary><p>Project Page: https://menyifang.github.io/projects/MIMO/index.html</p></details> |
 | **[Evidential Deep Learning with Spectral-Spatial Uncertainty Disentanglement for Open-Set Hyperspectral Domain Generalization](http://arxiv.org/abs/2506.09460v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09460v1) |  |
-| **[Spatial-RAG: Spatial Retrieval Augmented Generation for Real-World Geospatial Reasoning Questions](http://arxiv.org/abs/2502.18470v5)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2502.18470v5) |  |
-| **[Learnable Spatial-Temporal Positional Encoding for Link Prediction](http://arxiv.org/abs/2506.08309v2)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.08309v2) | <details><summary>Accep...</summary><p>Accepted by ICML 2025. 28 pages, 1 figures, 22 tables</p></details> |
-| **[Change-Points Detection and Support Recovery for Spatially Indexed Functional Data](http://arxiv.org/abs/2506.07206v2)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.07206v2) |  |
-| **[A Spectral Confounder Adjustment for Spatial Regression with Multiple Exposures and Outcomes](http://arxiv.org/abs/2506.09325v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09325v1) |  |
 
 ## Time
 | **Title** | **Date** | **KiMi** | **Comment** |
 | --- | --- | --- | --- |
-| **[DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos](http://arxiv.org/abs/2506.09997v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09997v1) | <details><summary>Proje...</summary><p>Project page: https://hubert0527.github.io/dgslrm/</p></details> |
-| **[Microservices and Real-Time Processing in Retail IT: A Review of Open-Source Toolchains and Deployment Strategies](http://arxiv.org/abs/2506.09938v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09938v1) |  |
-| **[RNE: a plug-and-play framework for diffusion density estimation and inference-time control](http://arxiv.org/abs/2506.05668v2)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.05668v2) | 39 pages; 14 figures |
-| **[Mamba time series forecasting with uncertainty quantification](http://arxiv.org/abs/2503.10873v2)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2503.10873v2) |  |
-| **[TransGI: Real-Time Dynamic Global Illumination With Object-Centric Neural Transfer Model](http://arxiv.org/abs/2506.09909v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09909v1) |  |
-| **[FinTSBridge: A New Evaluation Suite for Real-world Financial Prediction with Advanced Time Series Models](http://arxiv.org/abs/2503.06928v2)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2503.06928v2) | <details><summary>ICLR ...</summary><p>ICLR 2025 Workshop Advances in Financial AI</p></details> |
-| **[Bridging Continuous-time LQR and Reinforcement Learning via Gradient Flow of the Bellman Error](http://arxiv.org/abs/2506.09685v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09685v1) | <details><summary>submi...</summary><p>submitted to Conference on Decision and Control</p></details> |
-| **[Learning Time-Varying Multi-Region Brain Communications via Scalable Markovian Gaussian Processes](http://arxiv.org/abs/2407.00397v5)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2407.00397v5) |  |
-| **[SyncFed: Time-Aware Federated Learning through Explicit Timestamping and Synchronization](http://arxiv.org/abs/2506.09660v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09660v1) | <details><summary>Prepr...</summary><p>Preprint version. Accepted for publication at IEEE ETFA 2025</p></details> |
-| **[Real-Time Network Traffic Forecasting with Missing Data: A Generative Model Approach](http://arxiv.org/abs/2506.09647v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09647v1) |  |
-| **[Causal effects on non-terminal event time with application to antibiotic usage and future resistance](http://arxiv.org/abs/2506.09624v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09624v1) |  |
-| **[DeepExtractor: Time-domain reconstruction of signals and glitches in gravitational wave data with deep learning](http://arxiv.org/abs/2501.18423v3)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2501.18423v3) | <details><summary>24 pa...</summary><p>24 pages, 17 figures, 3 tables</p></details> |
-| **[Segregated Runge-Kutta schemes for the time integration of the incompressible Navier-Stokes equations in presence of pressure stabilization](http://arxiv.org/abs/2506.09519v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09519v1) |  |
-| **[LLM-Powered CPI Prediction Inference with Online Text Time Series](http://arxiv.org/abs/2506.09516v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09516v1) | 73 pages, 13 figures |
-| **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](http://arxiv.org/abs/2506.07584v2)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.07584v2) |  |
+| **[A space-time interface-fitted method for moving-subdomain distributed control problems with energy regularization](http://arxiv.org/abs/2506.10924v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10924v1) |  |
+| **[Data-Driven LQR with Finite-Time Experiments via Extremum-Seeking Policy Iteration](http://arxiv.org/abs/2412.02758v3)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2412.02758v3) |  |
+| **[Sample Complexity and Representation Ability of Test-time Scaling Paradigms](http://arxiv.org/abs/2506.05295v2)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.05295v2) |  |
+| **[A Combined Parallel-in-time Direct Inverse (ParaDIn)-Parareal Method for Nonlinear Differential Equations](http://arxiv.org/abs/2506.10820v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10820v1) | <details><summary>24 pa...</summary><p>24 pages. arXiv admin note: text overlap with arXiv:2406.00878</p></details> |
+| **[Reduced-Order Time Splitting for Navier-Stokes with Open Boundaries](http://arxiv.org/abs/2506.10763v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10763v1) |  |
+| **[TSFM-Bench: A Comprehensive and Unified Benchmark of Foundation Models for Time Series Forecasting](http://arxiv.org/abs/2410.11802v6)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2410.11802v6) |  |
+| **[Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs](http://arxiv.org/abs/2506.10630v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10630v1) |  |
+| **[Inference-Time Decomposition of Activations (ITDA): A Scalable Approach to Interpreting Large Language Models](http://arxiv.org/abs/2505.17769v2)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2505.17769v2) | ICML 2025 |
+| **[CORT: Class-Oriented Real-time Tracking for Embedded Systems](http://arxiv.org/abs/2407.17521v2)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2407.17521v2) |  |
+| **[Wider or Deeper? Scaling LLM Inference-Time Compute with Adaptive Branching Tree Search](http://arxiv.org/abs/2503.04412v2)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2503.04412v2) | <details><summary>Prese...</summary><p>Presented at ICLR 2025 Workshop on Foundation Models in the Wild</p></details> |
+| **[Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series](http://arxiv.org/abs/2506.10412v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10412v1) | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
+| **[EQA-RM: A Generative Embodied Reward Model with Test-time Scaling](http://arxiv.org/abs/2506.10389v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10389v1) | preprint |
+| **[Amulet: ReAlignment During Test Time for Personalized Preference Adaptation of LLMs](http://arxiv.org/abs/2502.19148v3)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2502.19148v3) | <details><summary>Accep...</summary><p>Accepted by ICLR 2025, Project page: https://zowiezhang.github.io/projects/Amulet</p></details> |
+| **[Learning-Based Stable Optimal Control for Infinite-Time Nonlinear Regulation Problems](http://arxiv.org/abs/2506.10291v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10291v1) |  |
+| **[RT-VC: Real-Time Zero-Shot Voice Conversion with Speech Articulatory Coding](http://arxiv.org/abs/2506.10289v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10289v1) | ACL Demo Track 2025 |
 
 ## Trajectory
 | **Title** | **Date** | **KiMi** | **Comment** |
 | --- | --- | --- | --- |
+| **[Improved error bounds for Koopman operator and reconstructed trajectories approximations with kernel-based methods](http://arxiv.org/abs/2506.09266v2)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.09266v2) | 24 pages, 6 figures |
+| **[A composition of simplified physics-based model with neural operator for trajectory-level seismic response predictions of structural systems](http://arxiv.org/abs/2506.10569v1)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.10569v1) |  |
+| **[Policy-Based Trajectory Clustering in Offline Reinforcement Learning](http://arxiv.org/abs/2506.09202v2)** | 2025-06-12 | [papers-cool](https://papers.cool/arxiv/2506.09202v2) |  |
 | **[Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation](http://arxiv.org/abs/2506.09990v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09990v1) |  |
 | **[ECAM: A Contrastive Learning Approach to Avoid Environmental Collision in Trajectory Forecasting](http://arxiv.org/abs/2506.09626v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09626v1) | IJCNN 2025 |
 | **[Design and Validation of an Intention-Aware Probabilistic Framework for Trajectory Prediction: Integrating COLREGS, Grounding Hazards, and Planned Routes](http://arxiv.org/abs/2504.00731v2)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2504.00731v2) | <details><summary>IMPOR...</summary><p>IMPORTANT: This preprint is not the final version. The peer-reviewed and updated version is published in Ocean Engineering journal [https://doi.org/10.1016/j.oceaneng.2025.121564]</p></details> |
 | **[TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization](http://arxiv.org/abs/2506.08440v2)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.08440v2) |  |
 | **[What is the Cost of Differential Privacy for Deep Learning-Based Trajectory Generation?](http://arxiv.org/abs/2506.09312v1)** | 2025-06-11 | [papers-cool](https://papers.cool/arxiv/2506.09312v1) |  |
-| **[Improved error bounds for Koopman operator and reconstructed trajectories approximations with kernel-based methods](http://arxiv.org/abs/2506.09266v1)** | 2025-06-10 | [papers-cool](https://papers.cool/arxiv/2506.09266v1) | 24 pages, 6 figures |
-| **[Policy-Based Trajectory Clustering in Offline Reinforcement Learning](http://arxiv.org/abs/2506.09202v1)** | 2025-06-10 | [papers-cool](https://papers.cool/arxiv/2506.09202v1) |  |
 | **[Evaluating Generative Vehicle Trajectory Models for Traffic Intersection Dynamics](http://arxiv.org/abs/2506.08963v1)** | 2025-06-10 | [papers-cool](https://papers.cool/arxiv/2506.08963v1) |  |
 | **[IntTrajSim: Trajectory Prediction for Simulating Multi-Vehicle driving at Signalized Intersections](http://arxiv.org/abs/2506.08957v1)** | 2025-06-10 | [papers-cool](https://papers.cool/arxiv/2506.08957v1) |  |
 | **[Intra-Trajectory Consistency for Reward Modeling](http://arxiv.org/abs/2506.09096v1)** | 2025-06-10 | [papers-cool](https://papers.cool/arxiv/2506.09096v1) | Under review |
@@ -78,5 +79,4 @@ labels: documentation
 | **[MoSiC: Optimal-Transport Motion Trajectory for Dense Self-Supervised Learning](http://arxiv.org/abs/2506.08694v1)** | 2025-06-10 | [papers-cool](https://papers.cool/arxiv/2506.08694v1) | preprint |
 | **[FlickerFusion: Intra-trajectory Domain Generalizing Multi-Agent RL](http://arxiv.org/abs/2410.15876v4)** | 2025-06-10 | [papers-cool](https://papers.cool/arxiv/2410.15876v4) | ICLR 2025 |
 | **[Safe and Economical UAV Trajectory Planning in Low-Altitude Airspace: A Hybrid DRL-LLM Approach with Compliance Awareness](http://arxiv.org/abs/2506.08532v1)** | 2025-06-10 | [papers-cool](https://papers.cool/arxiv/2506.08532v1) |  |
-| **[ATI: Any Trajectory Instruction for Controllable Video Generation](http://arxiv.org/abs/2505.22944v3)** | 2025-06-10 | [papers-cool](https://papers.cool/arxiv/2505.22944v3) |  |
 
